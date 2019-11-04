@@ -1,0 +1,23 @@
+header{
+    height: 75px;
+    border-bottom: 1px solid black;
+
+}
+
+main{
+
+}
+
+footer{
+
+}
+
+li{
+    width: 75px;
+    height: 50px;
+    background-color: lightblue;
+    border: 1px solid black;
+    display: inline-block;
+
+
+}
