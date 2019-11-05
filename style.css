@@ -1,23 +1,69 @@
+body{
+    background-image: url('background-home.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+
 header{
     height: 75px;
     border-bottom: 1px solid black;
+    background-color: slategray;
+    display: flex;
+    justify-content: center;
+    
 
 }
 
 main{
+    
 
 }
 
 footer{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 525px;
+    display: flex;
+    justify-content: center;
+    background-color: slategray;
+    
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
 li{
     width: 75px;
-    height: 50px;
+    height: 30px;
     background-color: lightblue;
     border: 1px solid black;
+    margin-right: 100px;
     display: inline-block;
-
-
+    box-shadow: -2px 2px 3px black;
+    
 }
+
+a{
+    color: white;
+}
+
+img{
+    width: 100px;
+    height: 50px;
+    
+}
+
+#color-menu{
+    background-color: slategray;
+    box-shadow: 2px 2px 3px black;
+}
+
+
+
