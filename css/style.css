@@ -1,5 +1,5 @@
 body{
-    background-image: url('background-home.jfif');
+    background-image: url('../images/background-home.jfif');
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
@@ -40,13 +40,14 @@ h1{
 }
 
 li{
-    width: 75px;
+    width: 100px;
     height: 30px;
     background-color: lightblue;
     border: 1px solid black;
     margin-right: 100px;
     display: inline-block;
     box-shadow: -2px 2px 3px black;
+    text-align: center;
     
 }
 
@@ -65,5 +66,18 @@ img{
     box-shadow: 2px 2px 3px black;
 }
 
+#vlaggen{
+    height: 20px;
+    color: black;
+    background-color: lightgrey;
 
+
+}
+
+#schilderij{
+    height: 20px;
+    color: black;
+    background-color: lightgrey;
+
+}
 
