@@ -21,18 +21,73 @@ main{
 
 }
 
-footer{
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.Naam{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#footer-home{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 460px;
+    background-color: slategray;
+    
+}
+
+#footer-project{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 375px;
+    background-color: slategray;
+    
+}
+
+#footer-contacten{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 440px;
+    background-color: slategray;
+    
+}
+
+#footer-over-mij{
     border: 1px solid black;
     height: 100px;
     margin-top: 525px;
-    display: flex;
-    justify-content: center;
     background-color: slategray;
     
+}
 
+#footer-cv{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 525px;
+    background-color: slategray;
+    
+}
+
+#footer-vaardigheden{
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 525px;
+    background-color: slategray;
+    
 }
 
 h1{
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3{
     display: flex;
     justify-content: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
