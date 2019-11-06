@@ -43,7 +43,7 @@ main{
 #footer-project{
     border: 1px solid black;
     height: 100px;
-    margin-top: 375px;
+    margin-top: 300px;
     background-color: slategray;
     
 }
@@ -124,7 +124,7 @@ img{
 #vlaggen{
     height: 20px;
     color: black;
-    background-color: lightgrey;
+   
 
 
 }
@@ -132,7 +132,19 @@ img{
 #schilderij{
     height: 20px;
     color: black;
-    background-color: lightgrey;
+   
 
 }
 
+#rekenmachine{
+    height: 20px;
+    color: black;
+   
+
+
+}
+
+#over-mij{
+    font-size: 20px;
+    color: black
+}
