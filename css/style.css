@@ -35,7 +35,7 @@ main{
 #footer-home{
     border: 1px solid black;
     height: 100px;
-    margin-top: 460px;
+    margin-top: 60px;
     background-color: slategray;
     
 }
@@ -43,7 +43,7 @@ main{
 #footer-project{
     border: 1px solid black;
     height: 100px;
-    margin-top: 300px;
+    margin-top: 153px;
     background-color: slategray;
     
 }
@@ -51,7 +51,7 @@ main{
 #footer-contacten{
     border: 1px solid black;
     height: 100px;
-    margin-top: 440px;
+    margin-top: 370px;
     background-color: slategray;
     
 }
@@ -59,7 +59,7 @@ main{
 #footer-over-mij{
     border: 1px solid black;
     height: 100px;
-    margin-top: 525px;
+    margin-top: 300px;
     background-color: slategray;
     
 }
@@ -67,7 +67,7 @@ main{
 #footer-cv{
     border: 1px solid black;
     height: 100px;
-    margin-top: 525px;
+    margin-top: 460px;
     background-color: slategray;
     
 }
@@ -75,7 +75,7 @@ main{
 #footer-vaardigheden{
     border: 1px solid black;
     height: 100px;
-    margin-top: 525px;
+    margin-top: 460px;
     background-color: slategray;
     
 }
@@ -147,4 +147,9 @@ img{
 #over-mij{
     font-size: 20px;
     color: black
+}
+
+#qp_all2596335{
+    margin-left: 1150px;
+    margin-top: 17%; 
 }
